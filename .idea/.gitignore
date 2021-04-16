@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Python与深度学习\《PythonQT GUI与数据可视化编程》彩图和配套源代码\chap03Widgets\Demo3_1LineEdit\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
