@@ -9,6 +9,8 @@ import os, cv2
 import numpy as np
 
 #
+##
+
 def string2intlist(str_in):
    # 1: remove ' ', '[', and ']'
    # 2: split into string list
@@ -21,7 +23,7 @@ def string2intlist(str_in):
          temp_int_list.append(float(x))
    return temp_int_list
 
-class QmyWidget(QWidget): 
+class QmyWidget(QWidget):
    def __init__(self, parent=None, Img_path=None, XML_path=None):
       super().__init__(parent)   #调用父类构造函数，创建窗体
       self.ui=Ui_Widget()        #创建UI对象
