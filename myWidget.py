@@ -12,6 +12,7 @@ import numpy as np
 ##
 
 def string2intlist(str_in):
+   ##
    # 1: remove ' ', '[', and ']'
    # 2: split into string list
    # 3: convert into int list
